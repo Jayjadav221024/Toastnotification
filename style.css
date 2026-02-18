@@ -63,7 +63,7 @@ body{
     background: red;
 }
 .toast.invalid::after{
-    background: orange;
+    background: rgb(112, 85, 36);
 }
 .toast i{
     /* margin: 0 20px; */
